@@ -1,8 +1,8 @@
 # Hello, I'm Noah Jennings👋
 
-- 🔭 I’m currently working on programming examples.
+- 🔭 I’m currently working on a mobile application.
 - 🌱 I’m currently learning Cybersecurity.
-- 👯 I’m looking to collaborate on data collection tools.
+- 👯 I’m looking to collaborate on testing tools.
 - 🤔 I’m looking for help with securing APIs.
 
 ## Publications ⚡
