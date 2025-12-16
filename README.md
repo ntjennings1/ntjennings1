@@ -1,9 +1,8 @@
 # Hello, I'm Noah Jennings👋
 
-- 🔭 I’m currently working on a mobile application.
-- 🌱 I’m currently learning Cybersecurity.
-- 👯 I’m looking to collaborate on testing tools.
-- 🤔 I’m looking for help with securing APIs.
+- 🔭 Currently working on an online game.
+- 🌱 I’m learning Cybersecurity and Networking Fundamentals.
+- 👯 Looking for help testing and/or disassembling.
 
 ## Publications ⚡
 1. Gharasuie, M. M., Jennings, N., & Jain, S. (2021, June). Performance monitoring for exercise movements using mobile cameras. In Proceedings of the Workshop on Body-Centric Computing Systems (pp. 1-6). [Access Here](https://dl.acm.org/doi/pdf/10.1145/3469260.3469665)
